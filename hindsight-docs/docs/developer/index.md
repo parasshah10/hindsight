@@ -124,6 +124,7 @@ These settings only affect the `reflect` operation, not `recall`.
 - [**Retain**](/developer/retain) — How memories are stored with multi-dimensional facts
 - [**Recall**](/developer/retrieval) — How TEMPR's 4-way search retrieves memories
 - [**Reflect**](/developer/reflect) — How mission, directives, and disposition shape reasoning
+- [**Memory Architecture (Deep Dive)**](/developer/memory-architecture) — A detailed walkthrough of data models and flows
 
 ### API Methods
 - [**Retain**](/developer/api/retain) — Store information in memory banks
